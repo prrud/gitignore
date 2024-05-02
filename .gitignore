@@ -1,2 +1,11 @@
+# Ignore signle file
 new-file.txt
+
+# Ignore all files in the bin directory
 bin/
+
+# Ignore all .tmp files
+*.tmp
+
+# Ignore vim temporary files
+*.swp
